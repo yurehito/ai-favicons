@@ -12,7 +12,7 @@ Each favicon is crafted to be **lightweight, scalable, and visually stunning**.
 ## 📂 Favicon Collection  
 | Name | Preview | Download |
 |------|---------|----------|
-| Red Yin-Yang | ![Yin-Yang](favicons/red-yin-yang.svg) | [Download](favicons/red-yin-yang.svg) |
+| Red Yin-Yang | ☯️ | [Download](favicons/red-yin-yang.svg) |
 | More Coming Soon... | 🚀 | 🔥 |
 
 ## 📜 Usage  
