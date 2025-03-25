@@ -12,8 +12,8 @@ Each favicon is crafted to be **lightweight, scalable, and visually stunning**.
 ## 📂 Favicon Collection  
 | Name | Preview | Download |
 |------|---------|----------|
-| Red Yin-Yang | ☯️ | [Download](favicons/red-yin-yang.svg) |
-| More Coming Soon... | 🚀 | 🔥 |
+| Red Yin-Yang |☯️| [Download](favicons/red-yin-yang.svg) |
+| More Coming Soon... |🚀| 🔥 |
 
 ## 📜 Usage  
 Copy the SVG file and create a file named `favicon.svg`, then paste the code there and link the file in your HTML code.
